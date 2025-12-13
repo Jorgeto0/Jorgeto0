@@ -1,10 +1,10 @@
 # 💫 About Me
 
-## 🚀 I’m currently engineering systems that refuse to go down and love low latency  
-## 🧠 I collaborate best on projects where we solve real problems and break nothing… or at least fix it fast  
-## 🔧 I enjoy turning messy backends into clean architectures and slow frontends into rockets  
-## 🛠️ I’m learning new DevOps tricks because automation > stress  
-## 💬 Ask me about caching, SQL magic, React performance, or why “it works on my machine” is a lie  
+🚀 I’m currently engineering systems that refuse to go down and love low latency  
+🧠 I collaborate best on projects where we solve real problems and break nothing… or at least fix it fast  
+🔧 I enjoy turning messy backends into clean architectures and slow frontends into rockets  
+🛠️ I’m learning new DevOps tricks because automation > stress  
+💬 Ask me about caching, SQL magic, React performance, or why “it works on my machine” is a lie  
 
 ---
 
