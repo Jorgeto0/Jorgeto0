@@ -2,13 +2,13 @@
 
 🖥️ I’m engineering systems that refuse to go down and absolutely love low latency  
 
-🧠🤝 I thrive on solving real problems, breaking things responsibly… and fixing them fast  
+🧠 I thrive on solving real problems, breaking things responsibly… and fixing them fast  
 
 🧹 I clean up messy backends and strap rockets to slow frontends  
 
-⚙️✨ I’m collecting DevOps tricks so automation does the work and I keep my sanity  
+⚙️ I’m collecting DevOps tricks so automation does the work and I keep my sanity  
 
-🐞💥 Ask me about caching, SQL magic, React performance, or why “it works on my machine” never does  
+🐞 Ask me about caching, SQL magic, React performance, or why “it works on my machine” never does  
 
 
 ---
