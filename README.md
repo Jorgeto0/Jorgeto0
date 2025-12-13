@@ -1,10 +1,10 @@
 # 💫 About Me
 
-🚀 I’m currently engineering systems that refuse to go down and love low latency  
-🧠 I collaborate best on projects where we solve real problems and break nothing… or at least fix it fast  
-🔧 I enjoy turning messy backends into clean architectures and slow frontends into rockets  
-🛠️ I’m learning new DevOps tricks because automation > stress  
-💬 Ask me about caching, SQL magic, React performance, or why “it works on my machine” is a lie  
+🖥️ I’m engineering systems that refuse to go down and absolutely love low latency
+🧠 I thrive on solving real problems, breaking things responsibly… and fixing them fast
+🧹 I clean up messy backends and strap rockets to slow frontends
+⚙️ I’m collecting DevOps tricks so automation does the work and I keep my sanity
+🐞 Ask me about caching, SQL magic, React performance, or why “it works on my machine” never does
 
 ---
 
@@ -13,7 +13,7 @@
 
 ---
 
-# 💻 Tech Stack (Organized)
+# 💻 Tech Stack
 
 ## 🧠 Languages  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -35,14 +35,9 @@
 ## 🎨 Frontend  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS)
 
 ---
 
@@ -50,9 +45,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB)
 
 ---
 
@@ -72,26 +65,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jorgeto0&theme=dark&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jorgeto0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeto0&theme=dark&hide_border=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jorgeto0&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jorgeto0&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Jorgeto0&icon=0&color=0)](https://visitcount.itsvg.in)
